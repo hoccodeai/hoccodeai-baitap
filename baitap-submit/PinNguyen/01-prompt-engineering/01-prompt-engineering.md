@@ -58,7 +58,8 @@ When classifying and summarizing, please follow these steps:
 
 Add comments to the following code includes:
 
-- Review the following code and add a comment explaining the flow.
+- Review the following code find potential issues in this code and add a comment explaining the flow.
+  For Coment:
 - Comment to describe the expected behavior or output of the given code block.
 - Comment explaining the purpose and usage of a variable or constant in the following code
 - Comment explaining the purpose and behavior of this conditional statement.
@@ -67,6 +68,10 @@ Add comments to the following code includes:
 - Add a code comment explaining the purpose and usage of a specific library or external dependency.
 - Add a code comment describing the intended use or expected behavior of a specific class or object.
 - Add a comment to provide a high-level overview of the code or module.
+
+  For potential issues:
+
+- Identify syntax errors, semantic errors, logic error, variable names, constants, conditional statements, and duplicate code.
 
 ===
 [Enter code snippet]
