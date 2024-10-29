@@ -1,5 +1,5 @@
 ## Học viên
-[Tên của bạn]
+[Tên của bạn + email bên hệ thống HọcCodeAI]
 
 ## Bài tập
 [Tên file bài tập] hoặc [Link bài tập]
