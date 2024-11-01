@@ -49,7 +49,7 @@
   for line in docx.file:
   file.write(line.text + "\n")
   >
-- improve it to make it easier to read in file.txt.
+- improve it for easier reading in file.txt that when reading a sentence with a . mark, automatically break to another line. 
 - explain each line of the above code to me who knows nothing about the python-docx library.
 - provide more information about the library.
 - give 10 commonly used commands in the library that developers often use. For each of the 10 commands, explain clearly and give example code for which case it is used
