@@ -1,0 +1,23 @@
+- Prompt 1
+'''This is the content of the lesson I learned today. I want to practice more by doing multiple choice questions. Please create for me 40 multiple choice questions in 3 levels: easy, medium, hard, each question follows the format: question and 4 answers to choose from. After giving 20 questions, write the answers of those 20 questions below the list of questions so that I can check the answers after finishing the 20 questions above.'''
+
+- Prompt 2
+'''Quê em là một ngôi làng nhỏ nằm dưới chân núi. Đứng ở lưng núi là có thể quan sát toàn bộ ngôi làng. Nhìn khắp làng, đâu cũng là màu xanh tươi tràn ngập sức sống. Đó là màu xanh của ruộng lúa đương thì ngon gái thơm nồng hương sữa lúa non. Là màu xanh của những khu vườn tươi tốt được chăm sóc chu đáo. Là màu xanh của những ao bèo, hồ sen. Thật là thích mắt! Nhờ thảm xanh ấy và cả ngọn núi lớn mà cả làng lúc nào cũng mát mẻ. Cuộc sống nơi đây thì bình yên, chậm rãi. Em luôn cảm thấy quê mình như là một chốn thế ngoại đào viên cho mọi người dừng chân nghỉ ngơi khi đã mệt nhọc với chốn xô bồ ngoài kia.'''
+Above is an unfinished paragraph. I want you to base on the above paragraph, then analyze and continue the above paragraph by rewriting the above paragraph and then adding other paragraphs after that so that it is logical and the sentences sound good.
+
+- Prompt 3
+'''Áo đẹp xinh lắm mặc vào tôn dáng hack body lắm em cao 1m55 mặc vào ngang mộng lun áo vừa xinhh lại rẻ sẽ ủng hộ shop tiếp'''
+'''Áo rất đẹp nha mọi người mặc mùa hè mátttt lắm ạ mình size M cũng vừa hihi'''
+'''Giá thành hợp lý. Chất liệu cotton su co giãn thoáng mát. Phù hợp để mặc trong mùa hè.'''
+'''Shop làm ăn thiếu chuyên nghiệp. Giao hàng thì lâu. Còn giao thiếu.nhắn tin phản hồi lúc nửa đêm. Nên mua chổ uy tính hơn nha'''
+'''Xấu chê nặng nhe, vải thì mỏng,  chật còn nhăn nữa né né né, giao lâu nữa'''
+Above is a list of reviews about t-shirt products. The above list has positive and negative reviews. Please classify it into 2 types of positive reviews and negative reviews, and count the number of reviews for each type.
+
+- Prompt 4
+You are a chatbot developer. Above is the code that has an error. Find the error, explain it, suggest a solution and comment on the code.
+
+- Prompt 5
+You are a good tour guide. Next month I have a trip to Hanoi. You make a 3-day, 2-night travel plan including sightseeing spots, activities, famous foods in Hanoi and the time of each activity. The plan needs to detail each activity with 3 columns: time, activity name, location.
+
+- Prompt 6
+This is a short story. Please summarize the content of this story in an easy-to-understand way, or list the characters that appear in the story and state your feelings about each character.
