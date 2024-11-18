@@ -21,7 +21,7 @@ def answer_question(question):
             max_tokens = 50,
             n = 1,
             temperature = 0.6,
-            model = "gpt-3.5-turbo",
+            model = "gpt-4o-mini-2024-07-18",
 
         )
         return chat_completion.choices[0].message["content"]
