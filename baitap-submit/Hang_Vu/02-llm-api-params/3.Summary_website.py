@@ -56,6 +56,12 @@ def main():
     # print(messages)
     try:
         while True:
+            answer = answer_question(messages)
+            messages.append({
+                    "role": "assistant",
+                    "content": answer
+                })
+            print(f"Answer: {answer}")
             question = input("Question: ")
             messages.append({
                 "role": "user",
@@ -63,14 +69,7 @@ def main():
             })
             if question.lower() == "bye":
                 print("Goodbye. See you soon!")
-                break
-            else:
-                answer = answer_question(messages)
-                messages.append({
-                    "role": "assistant",
-                    "content": answer
-                })
-                print(f"Answer: {answer}")
+                break  
     except Exception as e:      
         print(f"Error: {e}")
 
