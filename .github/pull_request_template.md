@@ -1,5 +1,5 @@
 ## Học viên
-[Tên của bạn + email bên hệ thống HọcCodeAI]
+[Trần Thành An + anuchiha01@gmail.com]
 
 ## Bài tập
 [Tên file bài tập] hoặc [Link bài tập]
