@@ -1,12 +1,10 @@
-import os
+"""import os
 from openai import OpenAI
-
 # Thiết lập Groq API client
 client = OpenAI(
-    base_url="https://api.groq.com/openai/v1",
-    api_key='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',  # Thay bằng API key của bạn
+    base_url="http://192.168.38.1:1234/v1",
+    api_key='meta-llama-3.1-8b-instruct',  # Thay bằng API key của bạn
 )
-
 # Hàm chính để trò chuyện với AI
 def chat_with_ai():
     print("Chào mừng bạn đến với chatbot console! (Gõ 'exit' để thoát)")
@@ -26,7 +24,7 @@ def chat_with_ai():
             # Gửi yêu cầu đến Groq AI
             chat_completion = client.chat.completions.create(
                 messages=messages,
-                model="gemma2-9b-it"  # Tên mô hình bạn đang sử dụng
+                model="lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF"  # Tên mô hình bạn đang sử dụng
             )
 
             # Lấy phản hồi từ AI
@@ -43,13 +41,19 @@ if __name__ == "__main__":
     chat_with_ai()
 
 #dùng AI để tóm tắt bài báo
+"""
 
-"""import os
+import os
 import requests
 import logging
 from bs4 import BeautifulSoup
 from openai import OpenAI
 from urllib.parse import urlparse
+
+client = OpenAI(
+    base_url="http://192.168.38.1:1234/v1",
+    api_key='meta-llama-3.1-8b-instruct',  # Thay bằng API key của bạn
+)
 
 def validate_url(url):
     #Validate the URL format.
@@ -101,7 +105,7 @@ def summarize_content(content):
                     "content": f"Summarize the following content in vietnamese for short summarize: {content}",
                 }
             ],
-            model="gemma2-9b-it"
+            model="lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF"
         )
         summary = chat_completion.choices[0].message.content
         logging.info("Successfully summarized content.")
@@ -134,4 +138,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-"""
