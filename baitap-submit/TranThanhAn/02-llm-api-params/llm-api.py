@@ -100,10 +100,8 @@ def summarize_content(content):
     try:
         chat_completion = client.chat.completions.create(
             messages=[
-                {
-                    "role": "user",
-                    "content": f"Summarize the following content in vietnamese for short summarize: {content}",
-                }
+                {"role": "system", "content": "Act as an English translator and technical writer."},
+                {"role": "user", "content": f"Summarize the following content in vietnamese for short summarize: {content}",}
             ],
             model="lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF"
         )
