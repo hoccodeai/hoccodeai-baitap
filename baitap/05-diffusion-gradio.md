@@ -1,5 +1,7 @@
 # Đề bài
 
+> Bài 4-6 là bonus, nếu bạn không thích tạo ảnh, có thể bỏ qua để làm bài 7
+
 Dựa theo code ứng dụng tạo ảnh Gradio đã có
 
 - Đổi model đang dùng sang khác để tạo ảnh anime/2.5D trên civitAI thay vì dùng model SD1.5 gốc

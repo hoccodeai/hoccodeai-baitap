@@ -1,4 +1,6 @@
-# Đề bài (Đây là bài Bonus cho các bạn biết React và Front-end, bạn có thể bỏ qua)
+# Đề bài
+
+> Đây là bài Bonus cho các bạn biết React và Front-end, bạn có thể bỏ qua
 
 1. Đọc thêm tài liệu về OpenAI JS SDK tại <https://www.npmjs.com/package/openai>.
 
@@ -18,4 +20,6 @@
 
 # Nội dung nộp bài
 
-Để toàn bộ source code vào thư mục `03-chatgpt-react` bên mục `baitap-submit`. Hoặc nếu bạn tạo dự án bằng <https://vite.new/react> thì tạo file txt rồi dán link vào.
+Để toàn bộ source code vào thư mục `03-chatgpt-react` bên mục `baitap-submit`.
+
+Hoặc nếu bạn tạo dự án bằng <https://vite.new/react> thì tạo file txt rồi dán link vào.
