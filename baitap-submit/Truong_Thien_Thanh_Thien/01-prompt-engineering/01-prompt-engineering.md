@@ -308,3 +308,4 @@ Symbolic Cakes: Lang Lieu creates round and square cakes, symbolizing the sky an
 Chosen Successor: On the offering day, Lang Lieu's cakes satisfy the king, making him the chosen successor.
 
 Cultural Tradition: The cakes, Banh Chung and Banh Tet, become significant elements of Vietnamese culture, especially during festivals and New Year.
+dâd
