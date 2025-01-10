@@ -104,6 +104,26 @@ Khi ta lớn lên
 ```
 
 - Prompt 3
+[
+  {
+    "review_detail": "Món ăn rất ngon, gia vị hài hòa và phục vụ tận tình. Chắc chắn sẽ quay lại lần nữa!"
+  },
+  {
+    "review_detail": "Phần ăn lớn, giá cả hợp lý. Không gian quán sạch sẽ và thoải mái."
+  },
+  {
+    "review_detail": "Đồ ăn nguội, chất lượng không như mong đợi. Phục vụ chậm chạp và không thân thiện."
+  },
+  {
+    "review_detail": "Món chính khá ngon nhưng tráng miệng không ấn tượng. Thời gian chờ hơi lâu."
+  },
+  {
+    "review_detail": "Hương vị tuyệt vời, trình bày đẹp mắt. Rất hài lòng với dịch vụ của nhà hàng."
+  },
+  {
+    "review_detail": "Giá cả quá đắt so với chất lượng. Không đáng để quay lại."
+  }
+]
 
 
 - Prompt 4
