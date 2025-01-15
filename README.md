@@ -1,3 +1,7 @@
+Nếu các bạn đã quên hoặc chưa từng dùng Git, bấm vào ảnh dưới để xem clip hướng dẫn dùng Git của Code Dạo nhé!
+
+[![Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc](http://i3.ytimg.com/vi/1JuYQgpbrW0/hqdefault.jpg)](https://www.youtube.com/watch?v=1JuYQgpbrW0)
+
 # Cách làm bài tập và nộp bài tập
 
 Để làm và nộp bài tập các bạn hãy làm theo các bước sau.
